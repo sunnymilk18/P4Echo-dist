@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "P4Echo",
+    "Name": "P4 Echo",
+    "InternalName": "P4Echo",
+    "Description": "Lee los debuffs de la fase 4 (Kefka Says) y te escribe en el chat local, solo para ti, qué tienes que hacer y en qué orden. No pone marcadores ni dibuja nada.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "ultimate",
+      "dancing mad",
+      "echo"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Dancing Mad (Ultimate) P4: tus mecánicas en el chat Echo, en orden.",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.3.0",
+    "DownloadLinkInstall": "https://github.com/sunnymilk18/P4Echo-dist/releases/download/v1.0.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/sunnymilk18/P4Echo-dist/releases/download/v1.0.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/sunnymilk18/P4Echo-dist/releases/download/v1.0.3.0/latest.zip",
+    "LastUpdate": 1791442910,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
